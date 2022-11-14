@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextFieldsStyle" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="android:colorPrimary">#e040fb</item>
+        <item name="android:colorControlActivated">#4a148c</item>
+        <item name="android:colorControlHighlight">#12005e</item>
+        <item name="android:textColor">#00FF00</item>
+        <item name="android:textSize">@dimen/text_font_size</item>
+    </style>
+</resources>
